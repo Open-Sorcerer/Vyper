@@ -2,6 +2,10 @@
 
 ## Video Demo
 https://youtu.be/UQgmXSNAk0c?si=YcExzsJ2gqPuwizV
+
+## NPM package
+[Vyper CLI](https://www.npmjs.com/package/vyper-cli) 
+
 ## Overview
 
 This is the documentation of the advanced CLI tool for the Venom blockchain. We created this tool to help speed up your Venom development. This tool helps you create frontend boilerplates and also interact with the Venom Network right from your command line interface.&#x20;
