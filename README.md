@@ -1,4 +1,7 @@
-# 👋 Welcome to Venom Advanced CLI
+# 👋 Welcome to Vyper
+
+## Video Demo
+https://youtu.be/UQgmXSNAk0c?si=YcExzsJ2gqPuwizV
 
 ## Overview
 
