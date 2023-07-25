@@ -1,4 +1,4 @@
-# 👋 Welcome to Venom Advanced CLI
+# 👋 Welcome to Vyper CLI
 
 ## Overview
 
@@ -6,10 +6,10 @@ This is the documentation of the advanced CLI tool for the Venom blockchain. We 
 
 
 ## Documentation
-https://open-sorcerer.gitbook.io/venom-cli/
+https://open-sorcerer.gitbook.io/venom-cli/  
 
-## Frontend Repos
+### [Getting Started with **Vyper CLI**](./SUMMARY.md)
+## Frontend Repositories
 
 https://github.com/Open-Sorcerer/Vyper-Next 
 https://github.com/Open-Sorcerer/Vyper-Vite
-

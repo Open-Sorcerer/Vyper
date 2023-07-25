@@ -8,7 +8,7 @@ Once you have installed the CLI tool and are ready to create your wallet, follow
 2. Run the following command:&#x20;
 
 ```
-vyper create
+vyper-cli create
 ```
 
 3. This command triggers the wallet creation process.

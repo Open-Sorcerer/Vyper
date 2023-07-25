@@ -12,7 +12,7 @@ description: >-
 
 Installation command&#x20;
 
-npm install -g vyper
+npm install -g vyper-cli
 
 </details>
 

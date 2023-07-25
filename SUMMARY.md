@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to Venom Advanced CLI](README.md)
+* [👋 Welcome to Vyper CLI](README.md)
 
 ## Overview
 
