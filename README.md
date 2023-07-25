@@ -4,7 +4,7 @@
 https://youtu.be/UQgmXSNAk0c?si=YcExzsJ2gqPuwizV
 
 ## NPM package
-[Vyper cli](https://www.npmjs.com/package/vyper-cli) 
+[Vyper CLI](https://www.npmjs.com/package/vyper-cli) 
 
 ## Overview
 
