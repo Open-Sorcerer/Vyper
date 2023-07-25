@@ -13,6 +13,7 @@ https://open-sorcerer.gitbook.io/venom-cli/
 
 ## Frontend Repos
 
-https://github.com/Open-Sorcerer/Vyper-Next 
+https://github.com/Open-Sorcerer/Vyper-Next   
+  
 https://github.com/Open-Sorcerer/Vyper-Vite
 
